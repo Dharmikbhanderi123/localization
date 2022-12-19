@@ -1,7 +1,7 @@
 const Map<String, String> stEnglish = {
   // ***** Landing page
 
-  // gitup demo dharmik.dev
+  // gitup demo.dev
 
   // 'account_landing_title': 'Learn to Become\nYour Own Therapist',
   'landing_title': 'Learn to Become\nYour Own Therapist',
