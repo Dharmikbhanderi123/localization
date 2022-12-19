@@ -1,5 +1,8 @@
 const Map<String, String> stEnglish = {
   // ***** Landing page
+
+  // gitup demo dharmik bhanderi
+
   // 'account_landing_title': 'Learn to Become\nYour Own Therapist',
   'landing_title': 'Learn to Become\nYour Own Therapist',
 
@@ -887,6 +890,4 @@ const Map<String, String> stEnglish = {
 
   // 'take_your_first_mhc': "Take the Mental Health Check",
   'home_take_your_first_mhc': "Take the Mental Health Check",
-
-  'demo code push ': "dharmik bhanderi",
 };
