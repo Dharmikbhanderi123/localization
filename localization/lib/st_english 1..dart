@@ -888,5 +888,5 @@ const Map<String, String> stEnglish = {
   // 'take_your_first_mhc': "Take the Mental Health Check",
   'home_take_your_first_mhc': "Take the Mental Health Check",
 
-  'demo code push ': "bhanderi dharmik",
+  'demo code push ': "dharmik bhanderi",
 };
