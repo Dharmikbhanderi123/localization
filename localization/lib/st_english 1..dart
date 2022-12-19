@@ -2,6 +2,8 @@ const Map<String, String> stEnglish = {
   // ***** Landing page
 
   //  github master
+  // gitup demo dharmik bhanderi
+  // gitup dharmik.dev
 
   // 'account_landing_title': 'Learn to Become\nYour Own Therapist',
   'landing_title': 'Learn to Become\nYour Own Therapist',
